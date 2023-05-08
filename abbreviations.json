@@ -1,0 +1,50 @@
+{
+    "abbreviations": [
+        {
+            "abbr": "asap",
+            "meaning": "As Soon As Possible"
+        },
+        {
+            "abbr": "fyi",
+            "meaning": "For Your Information"
+        },
+        {
+            "abbr": "diy",
+            "meaning": "Do It Yourself"
+        },
+        {
+            "abbr": "eta",
+            "meaning": "Estimated Time of Arrival"
+        },
+        {
+            "abbr": "imho",
+            "meaning": "In My Humble Opinion"
+        },
+        {
+            "abbr": "lol",
+            "meaning": "Laugh Out Loud"
+        },
+        {
+            "abbr": "lmao",
+            "meaning": "Laughing my ass out"
+        },
+        {
+            "abbr": "imo",
+            "meaning": "In my opinion"
+        },
+        {
+            "abbr": "ily",
+            "meaning": "I love you"
+        }
+    ],
+    "imo": "in my opinion",
+    "asap": "as soon as possible",
+    "fyi": "for your information",
+    "ily": "i love you",
+    "lmao": "laughing my ass out",
+    "lol": "laughing out loud",
+    "diy": "do it yourself",
+    "imho": "in my humble opinion",
+    "eta": "estimated time of arrival",
+    "fr": "for real"
+}
